@@ -20,5 +20,5 @@
 - [Map](https://ellacyt.github.io/ImpossibleMaps/Week3/index.html)
 - [Blog](http://www.ellachung.tech/2018/04/10/week-3-mappings-intelligent-agents/)
 
-##Week4: Aerial map
+## Week4: Aerial map
 - [Blog](http://www.ellachung.tech/2018/04/10/week-4)
