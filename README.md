@@ -20,5 +20,6 @@
 - [Map](https://ellacyt.github.io/ImpossibleMaps/Week3/index.html)
 - [Blog](http://www.ellachung.tech/2018/04/10/week-3-mappings-intelligent-agents/)
 
-## Week4: Aerial map
-- [Blog](http://www.ellachung.tech/2018/04/10/week-4)
+## Week4: The Missing Map
+![Image](https://feministphilosophers.files.wordpress.com/2013/02/857368_392359520860243_588807583_o.jpg)
+- [Blog](http://www.ellachung.tech/2018/04/17/week4-feminist-data/)
