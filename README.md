@@ -11,7 +11,12 @@
 - [Blog](http://www.ellachung.tech/2018/04/03/week2-map-with-data/)
 
 ## Week 3 : Combining data
-- cannot load 2 properties?
-- how to combine the countries polygon with the dataset of their happiness.score?
-- How to do Choropleth Map?
+![Image](http://www.ellachung.tech/wp-content/uploads/2018/04/Screen-Shot-2018-04-17-at-03.03.48.png)
+- using geojson-join to merge geojson & data.csv in terminal
+- have to manually edit the integers from string
+- Choropleth Map
+- [Map](https://ellacyt.github.io/ImpossibleMaps/Week3/index.html)
 - [Blog](http://www.ellachung.tech/2018/04/10/week-3-mappings-intelligent-agents/)
+
+##Week4: Aerial map
+- [Blog](http://www.ellachung.tech/2018/04/10/week-4)
