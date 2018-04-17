@@ -15,6 +15,8 @@
 - using geojson-join to merge geojson & data.csv in terminal
 - have to manually edit the integers from string
 - Choropleth Map
+- Names are being covered by the layers (?)
+
 - [Map](https://ellacyt.github.io/ImpossibleMaps/Week3/index.html)
 - [Blog](http://www.ellachung.tech/2018/04/10/week-3-mappings-intelligent-agents/)
 
