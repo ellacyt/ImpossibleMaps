@@ -23,3 +23,8 @@
 ## Week4: The Missing Map
 ![Image](https://feministphilosophers.files.wordpress.com/2013/02/857368_392359520860243_588807583_o.jpg)
 - [Blog](http://www.ellachung.tech/2018/04/17/week4-feminist-data/)
+
+## Final: Weather Music data map
+![Image](http://www.ellachung.tech/wp-content/uploads/2018/05/Screen-Shot-2018-05-01-at-07.16.23.png)
+- [Map](https://ellacyt.github.io/ImpossibleMaps/final/index.html)
+- [Blog](http://www.ellachung.tech/2018/05/01/final/)
