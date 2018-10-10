@@ -1,5 +1,8 @@
 # Impossible Maps [(Spring 2018)](https://github.com/MimiOnuoha/Impossible-Maps)
 
+- [Syllabus](https://github.com/MimiOnuoha/Impossible-Maps)
+- [Blog](http://www.ellachung.tech/category/impossible-maps/)
+
 ## Week 1 : Creating a web map 
 ![Image](http://www.ellachung.tech/wp-content/uploads/2018/03/mymap-1024x478.png)
 - [Map](https://ellacyt.github.io/ImpossibleMaps/Week1/week1-web-map-leaflet.html)
